@@ -7508,3 +7508,643 @@
 2021-02-01 23:37:22,151 [INFO]  Epoch[49] Validation-Age-accuracy=0.000000
 2021-02-01 23:37:22,151 [INFO]  
 ========== done (1.989516019821167 s) fit model
+2021-02-02 12:35:13,740 [INFO]  
+========== start: fit model
+2021-02-02 12:35:13,747 [WARNING]  Already bound, ignoring bind()
+2021-02-02 12:35:13,774 [INFO]  Epoch[0] Batch [0-21]	Speed: 16131.94 samples/sec	cross-entropy=16.065413	Age-accuracy=0.000000
+2021-02-02 12:35:13,799 [INFO]  Epoch[0] Train-cross-entropy=14.116191
+2021-02-02 12:35:13,799 [INFO]  Epoch[0] Train-Age-accuracy=0.000000
+2021-02-02 12:35:13,800 [INFO]  Epoch[0] Time cost=0.049
+2021-02-02 12:35:13,805 [INFO]  Saved checkpoint to "imputer_model/model-0000.params"
+2021-02-02 12:35:13,808 [INFO]  Epoch[0] Validation-cross-entropy=15.324096
+2021-02-02 12:35:13,809 [INFO]  Epoch[0] Validation-Age-accuracy=0.000000
+2021-02-02 12:35:13,836 [INFO]  Epoch[1] Batch [0-21]	Speed: 14800.01 samples/sec	cross-entropy=13.641666	Age-accuracy=0.000000
+2021-02-02 12:35:13,858 [INFO]  Epoch[1] Train-cross-entropy=12.505892
+2021-02-02 12:35:13,859 [INFO]  Epoch[1] Train-Age-accuracy=0.000000
+2021-02-02 12:35:13,859 [INFO]  Epoch[1] Time cost=0.048
+2021-02-02 12:35:13,864 [INFO]  Saved checkpoint to "imputer_model/model-0001.params"
+2021-02-02 12:35:13,868 [INFO]  Epoch[1] Validation-cross-entropy=15.878531
+2021-02-02 12:35:13,868 [INFO]  Epoch[1] Validation-Age-accuracy=0.000000
+2021-02-02 12:35:13,889 [INFO]  Epoch[2] Batch [0-21]	Speed: 18901.88 samples/sec	cross-entropy=13.239680	Age-accuracy=0.000000
+2021-02-02 12:35:13,907 [INFO]  Epoch[2] Train-cross-entropy=12.213769
+2021-02-02 12:35:13,908 [INFO]  Epoch[2] Train-Age-accuracy=0.000000
+2021-02-02 12:35:13,908 [INFO]  Epoch[2] Time cost=0.039
+2021-02-02 12:35:13,913 [INFO]  Saved checkpoint to "imputer_model/model-0002.params"
+2021-02-02 12:35:13,916 [INFO]  Epoch[2] Validation-cross-entropy=15.881980
+2021-02-02 12:35:13,917 [INFO]  Epoch[2] Validation-Age-accuracy=0.000000
+2021-02-02 12:35:13,940 [INFO]  Epoch[3] Batch [0-21]	Speed: 17359.80 samples/sec	cross-entropy=13.001678	Age-accuracy=0.000000
+2021-02-02 12:35:13,959 [INFO]  Epoch[3] Train-cross-entropy=12.041022
+2021-02-02 12:35:13,959 [INFO]  Epoch[3] Train-Age-accuracy=0.000000
+2021-02-02 12:35:13,960 [INFO]  Epoch[3] Time cost=0.042
+2021-02-02 12:35:13,964 [INFO]  Saved checkpoint to "imputer_model/model-0003.params"
+2021-02-02 12:35:13,967 [INFO]  Epoch[3] Validation-cross-entropy=15.796783
+2021-02-02 12:35:13,968 [INFO]  Epoch[3] Validation-Age-accuracy=0.000000
+2021-02-02 12:35:13,990 [INFO]  Epoch[4] Batch [0-21]	Speed: 17990.04 samples/sec	cross-entropy=12.809892	Age-accuracy=0.000000
+2021-02-02 12:35:14,010 [INFO]  Epoch[4] Train-cross-entropy=11.909992
+2021-02-02 12:35:14,011 [INFO]  Epoch[4] Train-Age-accuracy=0.000000
+2021-02-02 12:35:14,012 [INFO]  Epoch[4] Time cost=0.043
+2021-02-02 12:35:14,018 [INFO]  Saved checkpoint to "imputer_model/model-0004.params"
+2021-02-02 12:35:14,022 [INFO]  Epoch[4] Validation-cross-entropy=15.738213
+2021-02-02 12:35:14,022 [INFO]  Epoch[4] Validation-Age-accuracy=0.000000
+2021-02-02 12:35:14,048 [INFO]  Epoch[5] Batch [0-21]	Speed: 15424.12 samples/sec	cross-entropy=12.657944	Age-accuracy=0.000000
+2021-02-02 12:35:14,066 [INFO]  Epoch[5] Train-cross-entropy=11.810536
+2021-02-02 12:35:14,067 [INFO]  Epoch[5] Train-Age-accuracy=0.000000
+2021-02-02 12:35:14,068 [INFO]  Epoch[5] Time cost=0.045
+2021-02-02 12:35:14,071 [INFO]  Saved checkpoint to "imputer_model/model-0005.params"
+2021-02-02 12:35:14,075 [INFO]  No improvement detected for 5 epochs compared to 15.324096488952637 last error obtained: 15.680647087097167, stopping here
+2021-02-02 12:35:14,076 [INFO]  
+========== done (0.3363149166107178 s) fit model
+2021-02-02 12:35:20,603 [INFO]  
+========== start: fit model
+2021-02-02 12:35:20,603 [WARNING]  Already bound, ignoring bind()
+2021-02-02 12:35:20,624 [INFO]  Epoch[0] Batch [0-21]	Speed: 18915.58 samples/sec	cross-entropy=16.714220	Age-accuracy=0.000000
+2021-02-02 12:35:20,640 [INFO]  Epoch[0] Train-cross-entropy=14.328716
+2021-02-02 12:35:20,640 [INFO]  Epoch[0] Train-Age-accuracy=0.000000
+2021-02-02 12:35:20,640 [INFO]  Epoch[0] Time cost=0.036
+2021-02-02 12:35:20,642 [INFO]  Saved checkpoint to "imputer_model/model-0000.params"
+2021-02-02 12:35:20,644 [INFO]  Epoch[0] Validation-cross-entropy=15.114477
+2021-02-02 12:35:20,644 [INFO]  Epoch[0] Validation-Age-accuracy=0.000000
+2021-02-02 12:35:20,664 [INFO]  Epoch[1] Batch [0-21]	Speed: 17967.11 samples/sec	cross-entropy=13.535453	Age-accuracy=0.000000
+2021-02-02 12:35:20,682 [INFO]  Epoch[1] Train-cross-entropy=12.484607
+2021-02-02 12:35:20,683 [INFO]  Epoch[1] Train-Age-accuracy=0.000000
+2021-02-02 12:35:20,683 [INFO]  Epoch[1] Time cost=0.039
+2021-02-02 12:35:20,684 [INFO]  Saved checkpoint to "imputer_model/model-0001.params"
+2021-02-02 12:35:20,686 [INFO]  Epoch[1] Validation-cross-entropy=15.041230
+2021-02-02 12:35:20,686 [INFO]  Epoch[1] Validation-Age-accuracy=0.000000
+2021-02-02 12:35:20,708 [INFO]  Epoch[2] Batch [0-21]	Speed: 16865.76 samples/sec	cross-entropy=13.157494	Age-accuracy=0.000000
+2021-02-02 12:35:20,728 [INFO]  Epoch[2] Train-cross-entropy=12.214992
+2021-02-02 12:35:20,728 [INFO]  Epoch[2] Train-Age-accuracy=0.000000
+2021-02-02 12:35:20,728 [INFO]  Epoch[2] Time cost=0.042
+2021-02-02 12:35:20,730 [INFO]  Saved checkpoint to "imputer_model/model-0002.params"
+2021-02-02 12:35:20,732 [INFO]  Epoch[2] Validation-cross-entropy=15.301969
+2021-02-02 12:35:20,732 [INFO]  Epoch[2] Validation-Age-accuracy=0.000000
+2021-02-02 12:35:20,751 [INFO]  Epoch[3] Batch [0-21]	Speed: 18975.43 samples/sec	cross-entropy=12.940092	Age-accuracy=0.000000
+2021-02-02 12:35:20,767 [INFO]  Epoch[3] Train-cross-entropy=12.054791
+2021-02-02 12:35:20,767 [INFO]  Epoch[3] Train-Age-accuracy=0.000000
+2021-02-02 12:35:20,767 [INFO]  Epoch[3] Time cost=0.035
+2021-02-02 12:35:20,769 [INFO]  Saved checkpoint to "imputer_model/model-0003.params"
+2021-02-02 12:35:20,770 [INFO]  Epoch[3] Validation-cross-entropy=15.497850
+2021-02-02 12:35:20,770 [INFO]  Epoch[3] Validation-Age-accuracy=0.000000
+2021-02-02 12:35:20,787 [INFO]  Epoch[4] Batch [0-21]	Speed: 21648.02 samples/sec	cross-entropy=12.786104	Age-accuracy=0.000000
+2021-02-02 12:35:20,802 [INFO]  Epoch[4] Train-cross-entropy=11.946521
+2021-02-02 12:35:20,802 [INFO]  Epoch[4] Train-Age-accuracy=0.000000
+2021-02-02 12:35:20,802 [INFO]  Epoch[4] Time cost=0.032
+2021-02-02 12:35:20,804 [INFO]  Saved checkpoint to "imputer_model/model-0004.params"
+2021-02-02 12:35:20,805 [INFO]  Epoch[4] Validation-cross-entropy=15.618830
+2021-02-02 12:35:20,805 [INFO]  Epoch[4] Validation-Age-accuracy=0.000000
+2021-02-02 12:35:20,823 [INFO]  Epoch[5] Batch [0-21]	Speed: 20451.71 samples/sec	cross-entropy=12.662703	Age-accuracy=0.000000
+2021-02-02 12:35:20,838 [INFO]  Epoch[5] Train-cross-entropy=11.863993
+2021-02-02 12:35:20,838 [INFO]  Epoch[5] Train-Age-accuracy=0.000000
+2021-02-02 12:35:20,838 [INFO]  Epoch[5] Time cost=0.032
+2021-02-02 12:35:20,839 [INFO]  Saved checkpoint to "imputer_model/model-0005.params"
+2021-02-02 12:35:20,841 [INFO]  No improvement detected for 5 epochs compared to 15.11447696685791 last error obtained: 15.68398666381836, stopping here
+2021-02-02 12:35:20,841 [INFO]  
+========== done (0.23824715614318848 s) fit model
+2021-02-02 13:07:25,194 [INFO]  
+========== start: fit model
+2021-02-02 13:07:25,200 [WARNING]  Already bound, ignoring bind()
+2021-02-02 13:07:25,222 [INFO]  Epoch[0] Batch [0-21]	Speed: 19785.56 samples/sec	cross-entropy=15.672615	Age-accuracy=0.000000
+2021-02-02 13:07:25,236 [INFO]  Epoch[0] Train-cross-entropy=13.781778
+2021-02-02 13:07:25,236 [INFO]  Epoch[0] Train-Age-accuracy=0.000000
+2021-02-02 13:07:25,236 [INFO]  Epoch[0] Time cost=0.033
+2021-02-02 13:07:25,238 [INFO]  Saved checkpoint to "imputer_model/model-0000.params"
+2021-02-02 13:07:25,239 [INFO]  Epoch[0] Validation-cross-entropy=15.289226
+2021-02-02 13:07:25,239 [INFO]  Epoch[0] Validation-Age-accuracy=0.000000
+2021-02-02 13:07:25,255 [INFO]  Epoch[1] Batch [0-21]	Speed: 21872.12 samples/sec	cross-entropy=13.307464	Age-accuracy=0.000000
+2021-02-02 13:07:25,273 [INFO]  Epoch[1] Train-cross-entropy=12.395431
+2021-02-02 13:07:25,273 [INFO]  Epoch[1] Train-Age-accuracy=0.000000
+2021-02-02 13:07:25,273 [INFO]  Epoch[1] Time cost=0.034
+2021-02-02 13:07:25,276 [INFO]  Saved checkpoint to "imputer_model/model-0001.params"
+2021-02-02 13:07:25,278 [INFO]  Epoch[1] Validation-cross-entropy=15.570373
+2021-02-02 13:07:25,278 [INFO]  Epoch[1] Validation-Age-accuracy=0.000000
+2021-02-02 13:07:25,297 [INFO]  Epoch[2] Batch [0-21]	Speed: 19019.48 samples/sec	cross-entropy=13.052721	Age-accuracy=0.000000
+2021-02-02 13:07:25,312 [INFO]  Epoch[2] Train-cross-entropy=12.204751
+2021-02-02 13:07:25,312 [INFO]  Epoch[2] Train-Age-accuracy=0.000000
+2021-02-02 13:07:25,312 [INFO]  Epoch[2] Time cost=0.034
+2021-02-02 13:07:25,314 [INFO]  Saved checkpoint to "imputer_model/model-0002.params"
+2021-02-02 13:07:25,315 [INFO]  Epoch[2] Validation-cross-entropy=15.864952
+2021-02-02 13:07:25,315 [INFO]  Epoch[2] Validation-Age-accuracy=0.000000
+2021-02-02 13:07:25,332 [INFO]  Epoch[3] Batch [0-21]	Speed: 20595.77 samples/sec	cross-entropy=12.886400	Age-accuracy=0.000000
+2021-02-02 13:07:25,347 [INFO]  Epoch[3] Train-cross-entropy=12.085425
+2021-02-02 13:07:25,347 [INFO]  Epoch[3] Train-Age-accuracy=0.000000
+2021-02-02 13:07:25,347 [INFO]  Epoch[3] Time cost=0.032
+2021-02-02 13:07:25,349 [INFO]  Saved checkpoint to "imputer_model/model-0003.params"
+2021-02-02 13:07:25,351 [INFO]  Epoch[3] Validation-cross-entropy=16.035051
+2021-02-02 13:07:25,351 [INFO]  Epoch[3] Validation-Age-accuracy=0.000000
+2021-02-02 13:07:25,380 [INFO]  Epoch[4] Batch [0-21]	Speed: 11634.40 samples/sec	cross-entropy=12.762734	Age-accuracy=0.000000
+2021-02-02 13:07:25,395 [INFO]  Epoch[4] Train-cross-entropy=12.001762
+2021-02-02 13:07:25,395 [INFO]  Epoch[4] Train-Age-accuracy=0.000000
+2021-02-02 13:07:25,395 [INFO]  Epoch[4] Time cost=0.045
+2021-02-02 13:07:25,397 [INFO]  Saved checkpoint to "imputer_model/model-0004.params"
+2021-02-02 13:07:25,399 [INFO]  Epoch[4] Validation-cross-entropy=16.101664
+2021-02-02 13:07:25,399 [INFO]  Epoch[4] Validation-Age-accuracy=0.000000
+2021-02-02 13:07:25,415 [INFO]  Epoch[5] Batch [0-21]	Speed: 21202.79 samples/sec	cross-entropy=12.668469	Age-accuracy=0.000000
+2021-02-02 13:07:25,429 [INFO]  Epoch[5] Train-cross-entropy=11.939195
+2021-02-02 13:07:25,429 [INFO]  Epoch[5] Train-Age-accuracy=0.000000
+2021-02-02 13:07:25,429 [INFO]  Epoch[5] Time cost=0.031
+2021-02-02 13:07:25,431 [INFO]  Saved checkpoint to "imputer_model/model-0005.params"
+2021-02-02 13:07:25,433 [INFO]  No improvement detected for 5 epochs compared to 15.289226245880126 last error obtained: 16.125564765930175, stopping here
+2021-02-02 13:07:25,433 [INFO]  
+========== done (0.23952317237854004 s) fit model
+2021-02-02 13:59:12,273 [INFO]  
+========== start: fit model
+2021-02-02 13:59:12,279 [WARNING]  Already bound, ignoring bind()
+2021-02-02 13:59:12,301 [INFO]  Epoch[0] Batch [0-21]	Speed: 19373.49 samples/sec	cross-entropy=17.940892	Age-accuracy=0.000000
+2021-02-02 13:59:12,315 [INFO]  Epoch[0] Train-cross-entropy=15.216776
+2021-02-02 13:59:12,316 [INFO]  Epoch[0] Train-Age-accuracy=0.000000
+2021-02-02 13:59:12,316 [INFO]  Epoch[0] Time cost=0.035
+2021-02-02 13:59:12,319 [INFO]  Saved checkpoint to "imputer_model/model-0000.params"
+2021-02-02 13:59:12,320 [INFO]  Epoch[0] Validation-cross-entropy=14.373173
+2021-02-02 13:59:12,320 [INFO]  Epoch[0] Validation-Age-accuracy=0.000000
+2021-02-02 13:59:12,337 [INFO]  Epoch[1] Batch [0-21]	Speed: 21484.99 samples/sec	cross-entropy=13.394455	Age-accuracy=0.000000
+2021-02-02 13:59:12,357 [INFO]  Epoch[1] Train-cross-entropy=12.431406
+2021-02-02 13:59:12,357 [INFO]  Epoch[1] Train-Age-accuracy=0.000000
+2021-02-02 13:59:12,357 [INFO]  Epoch[1] Time cost=0.037
+2021-02-02 13:59:12,359 [INFO]  Saved checkpoint to "imputer_model/model-0001.params"
+2021-02-02 13:59:12,360 [INFO]  Epoch[1] Validation-cross-entropy=14.698198
+2021-02-02 13:59:12,361 [INFO]  Epoch[1] Validation-Age-accuracy=0.000000
+2021-02-02 13:59:12,378 [INFO]  Epoch[2] Batch [0-21]	Speed: 19752.84 samples/sec	cross-entropy=13.080268	Age-accuracy=0.000000
+2021-02-02 13:59:12,394 [INFO]  Epoch[2] Train-cross-entropy=12.169115
+2021-02-02 13:59:12,394 [INFO]  Epoch[2] Train-Age-accuracy=0.000000
+2021-02-02 13:59:12,394 [INFO]  Epoch[2] Time cost=0.034
+2021-02-02 13:59:12,396 [INFO]  Saved checkpoint to "imputer_model/model-0002.params"
+2021-02-02 13:59:12,397 [INFO]  Epoch[2] Validation-cross-entropy=14.819280
+2021-02-02 13:59:12,398 [INFO]  Epoch[2] Validation-Age-accuracy=0.000000
+2021-02-02 13:59:12,415 [INFO]  Epoch[3] Batch [0-21]	Speed: 20386.91 samples/sec	cross-entropy=12.830691	Age-accuracy=0.000000
+2021-02-02 13:59:12,429 [INFO]  Epoch[3] Train-cross-entropy=11.976390
+2021-02-02 13:59:12,429 [INFO]  Epoch[3] Train-Age-accuracy=0.000000
+2021-02-02 13:59:12,429 [INFO]  Epoch[3] Time cost=0.031
+2021-02-02 13:59:12,431 [INFO]  Saved checkpoint to "imputer_model/model-0003.params"
+2021-02-02 13:59:12,432 [INFO]  Epoch[3] Validation-cross-entropy=14.857166
+2021-02-02 13:59:12,432 [INFO]  Epoch[3] Validation-Age-accuracy=0.000000
+2021-02-02 13:59:12,449 [INFO]  Epoch[4] Batch [0-21]	Speed: 21310.20 samples/sec	cross-entropy=12.653477	Age-accuracy=0.000000
+2021-02-02 13:59:12,463 [INFO]  Epoch[4] Train-cross-entropy=11.842688
+2021-02-02 13:59:12,463 [INFO]  Epoch[4] Train-Age-accuracy=0.000000
+2021-02-02 13:59:12,463 [INFO]  Epoch[4] Time cost=0.031
+2021-02-02 13:59:12,465 [INFO]  Saved checkpoint to "imputer_model/model-0004.params"
+2021-02-02 13:59:12,466 [INFO]  Epoch[4] Validation-cross-entropy=14.891899
+2021-02-02 13:59:12,467 [INFO]  Epoch[4] Validation-Age-accuracy=0.000000
+2021-02-02 13:59:12,483 [INFO]  Epoch[5] Batch [0-21]	Speed: 21190.68 samples/sec	cross-entropy=12.511526	Age-accuracy=0.000000
+2021-02-02 13:59:12,497 [INFO]  Epoch[5] Train-cross-entropy=11.741206
+2021-02-02 13:59:12,498 [INFO]  Epoch[5] Train-Age-accuracy=0.000000
+2021-02-02 13:59:12,498 [INFO]  Epoch[5] Time cost=0.031
+2021-02-02 13:59:12,499 [INFO]  Saved checkpoint to "imputer_model/model-0005.params"
+2021-02-02 13:59:12,501 [INFO]  No improvement detected for 5 epochs compared to 14.373173427581786 last error obtained: 14.909465503692626, stopping here
+2021-02-02 13:59:12,501 [INFO]  
+========== done (0.22874879837036133 s) fit model
+2021-02-02 22:00:32,923 [INFO]  CategoricalEncoder for column Cabin                                found only 3 occurrences of value B96 B98
+2021-02-02 22:00:32,924 [INFO]  CategoricalEncoder for column Cabin                                found only 3 occurrences of value F33
+2021-02-02 22:00:32,924 [INFO]  CategoricalEncoder for column Cabin                                found only 3 occurrences of value D
+2021-02-02 22:00:32,924 [INFO]  CategoricalEncoder for column Cabin                                found only 3 occurrences of value F2
+2021-02-02 22:00:32,924 [INFO]  CategoricalEncoder for column Cabin                                found only 3 occurrences of value E101
+2021-02-02 22:00:32,924 [INFO]  CategoricalEncoder for column Cabin                                found only 3 occurrences of value G6
+2021-02-02 22:00:32,924 [INFO]  CategoricalEncoder for column Cabin                                found only 3 occurrences of value C23 C25 C27
+2021-02-02 22:00:32,924 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value B51 B53 B55
+2021-02-02 22:00:32,924 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value C78
+2021-02-02 22:00:32,925 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value C125
+2021-02-02 22:00:32,925 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value E8
+2021-02-02 22:00:32,925 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value D26
+2021-02-02 22:00:32,925 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value C123
+2021-02-02 22:00:32,925 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value C126
+2021-02-02 22:00:32,925 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value E121
+2021-02-02 22:00:32,925 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value C2
+2021-02-02 22:00:32,925 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value C22 C26
+2021-02-02 22:00:32,925 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value D36
+2021-02-02 22:00:32,925 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value B20
+2021-02-02 22:00:32,925 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value B35
+2021-02-02 22:00:32,925 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value D17
+2021-02-02 22:00:32,925 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value E24
+2021-02-02 22:00:32,925 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value C83
+2021-02-02 22:00:32,925 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value D20
+2021-02-02 22:00:32,926 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value C52
+2021-02-02 22:00:32,926 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value B77
+2021-02-02 22:00:32,926 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value F4
+2021-02-02 22:00:32,926 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value B28
+2021-02-02 22:00:32,926 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value C93
+2021-02-02 22:00:32,926 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value B57 B59 B63 B66
+2021-02-02 22:00:32,926 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value E67
+2021-02-02 22:00:32,926 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value C124
+2021-02-02 22:00:32,926 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value C68
+2021-02-02 22:00:32,926 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value E33
+2021-02-02 22:00:32,926 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value B58 B60
+2021-02-02 22:00:32,926 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value B5
+2021-02-02 22:00:32,926 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value E44
+2021-02-02 22:00:32,926 [INFO]  CategoricalEncoder for column Cabin                                found only 2 occurrences of value C65
+2021-02-02 22:00:32,926 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value C54
+2021-02-02 22:00:32,926 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value C128
+2021-02-02 22:00:32,927 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value C46
+2021-02-02 22:00:32,927 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value A19
+2021-02-02 22:00:32,927 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value E77
+2021-02-02 22:00:32,927 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value D48
+2021-02-02 22:00:32,927 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value E12
+2021-02-02 22:00:32,927 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value D47
+2021-02-02 22:00:32,927 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value C103
+2021-02-02 22:00:32,927 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value C91
+2021-02-02 22:00:32,927 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value A24
+2021-02-02 22:00:32,927 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value B42
+2021-02-02 22:00:32,927 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value E50
+2021-02-02 22:00:32,927 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value B19
+2021-02-02 22:00:32,927 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value E58
+2021-02-02 22:00:32,927 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value C30
+2021-02-02 22:00:32,927 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value E34
+2021-02-02 22:00:32,928 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value D7
+2021-02-02 22:00:32,928 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value B71
+2021-02-02 22:00:32,928 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value C148
+2021-02-02 22:00:32,928 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value C104
+2021-02-02 22:00:32,928 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value A16
+2021-02-02 22:00:32,928 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value E38
+2021-02-02 22:00:32,928 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value C87
+2021-02-02 22:00:32,928 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value C47
+2021-02-02 22:00:32,928 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value E63
+2021-02-02 22:00:32,928 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value C32
+2021-02-02 22:00:32,928 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value D35
+2021-02-02 22:00:32,928 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value A14
+2021-02-02 22:00:32,929 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value B3
+2021-02-02 22:00:32,929 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value B86
+2021-02-02 22:00:32,929 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value T
+2021-02-02 22:00:32,929 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value B101
+2021-02-02 22:00:32,929 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value C82
+2021-02-02 22:00:32,929 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value A6
+2021-02-02 22:00:32,929 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value A34
+2021-02-02 22:00:32,929 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value E25
+2021-02-02 22:00:32,929 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value D11
+2021-02-02 22:00:32,930 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value B69
+2021-02-02 22:00:32,930 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value C86
+2021-02-02 22:00:32,930 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value E31
+2021-02-02 22:00:32,930 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value B94
+2021-02-02 22:00:32,930 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value D46
+2021-02-02 22:00:32,930 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value B49
+2021-02-02 22:00:32,930 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value D30
+2021-02-02 22:00:32,930 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value D9
+2021-02-02 22:00:32,930 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value C118
+2021-02-02 22:00:32,930 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value B37
+2021-02-02 22:00:32,931 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value E68
+2021-02-02 22:00:32,931 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value B4
+2021-02-02 22:00:32,931 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value B102
+2021-02-02 22:00:32,931 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value E46
+2021-02-02 22:00:32,931 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value B22
+2021-02-02 22:00:32,931 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value C92
+2021-02-02 22:00:32,931 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value D10 D12
+2021-02-02 22:00:32,931 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value E49
+2021-02-02 22:00:32,931 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value B41
+2021-02-02 22:00:32,932 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value D37
+2021-02-02 22:00:32,932 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value A20
+2021-02-02 22:00:32,932 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value C95
+2021-02-02 22:00:32,932 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value C49
+2021-02-02 22:00:32,932 [INFO]  CategoricalEncoder for column Cabin                                found only 1 occurrences of value B50
+2021-02-02 22:00:33,074 [WARNING]  Test set does not contain any ocurrences of values [D7, B28, F4, A16, E38, C52, C87, C103, C47, C32, E34, B3, C83, D17, B86, C2, E101, T, B58 B60, B101, F2, B51 B53 B55, C82, E8, E58, A34, E49, C124, C104, B69, C65, A14, E67, C30, B19, E50, C128, C46, A19, D48, E12, D26, D47, B94, D, D20, A24, B42, E77, A20, C123, C86, A6, D9, B57 B59 B63 B66, E68, C91, B77, D36, C126, E24, E121, B5, E44, C148, B41, B71, D30, E63, D11, C118, B37, B4, B102, C54, C125, E46, C78, D10 D12, D46, C49, E33, D37, C95, B50, B20, C93, F33, C68, B35, E31] in column [Cabin], consider using a more representative test set.
+2021-02-02 22:00:33,081 [INFO]  
+========== start: fit model
+2021-02-02 22:00:33,082 [WARNING]  Already bound, ignoring bind()
+2021-02-02 22:00:33,351 [INFO]  Epoch[0] Batch [0-5]	Speed: 611.41 samples/sec	cross-entropy=4.306431	Cabin-accuracy=0.020833
+2021-02-02 22:00:33,454 [INFO]  Epoch[0] Train-cross-entropy=4.316547
+2021-02-02 22:00:33,455 [INFO]  Epoch[0] Train-Cabin-accuracy=0.012500
+2021-02-02 22:00:33,455 [INFO]  Epoch[0] Time cost=0.371
+2021-02-02 22:00:33,497 [INFO]  Saved checkpoint to "imputer_model/model-0000.params"
+2021-02-02 22:00:33,508 [INFO]  Epoch[0] Validation-cross-entropy=3.741463
+2021-02-02 22:00:33,508 [INFO]  Epoch[0] Validation-Cabin-accuracy=0.062500
+2021-02-02 22:00:33,689 [INFO]  Epoch[1] Batch [0-5]	Speed: 525.06 samples/sec	cross-entropy=3.687692	Cabin-accuracy=0.093750
+2021-02-02 22:00:33,814 [INFO]  Epoch[1] Train-cross-entropy=3.733943
+2021-02-02 22:00:33,814 [INFO]  Epoch[1] Train-Cabin-accuracy=0.068750
+2021-02-02 22:00:33,814 [INFO]  Epoch[1] Time cost=0.306
+2021-02-02 22:00:33,874 [INFO]  Saved checkpoint to "imputer_model/model-0001.params"
+2021-02-02 22:00:33,884 [INFO]  Epoch[1] Validation-cross-entropy=3.426504
+2021-02-02 22:00:33,884 [INFO]  Epoch[1] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:34,060 [INFO]  Epoch[2] Batch [0-5]	Speed: 554.20 samples/sec	cross-entropy=3.449602	Cabin-accuracy=0.125000
+2021-02-02 22:00:34,200 [INFO]  Epoch[2] Train-cross-entropy=3.414924
+2021-02-02 22:00:34,201 [INFO]  Epoch[2] Train-Cabin-accuracy=0.187500
+2021-02-02 22:00:34,201 [INFO]  Epoch[2] Time cost=0.317
+2021-02-02 22:00:34,286 [INFO]  Saved checkpoint to "imputer_model/model-0002.params"
+2021-02-02 22:00:34,298 [INFO]  Epoch[2] Validation-cross-entropy=3.264607
+2021-02-02 22:00:34,299 [INFO]  Epoch[2] Validation-Cabin-accuracy=0.187500
+2021-02-02 22:00:34,503 [INFO]  Epoch[3] Batch [0-5]	Speed: 479.78 samples/sec	cross-entropy=3.341757	Cabin-accuracy=0.072917
+2021-02-02 22:00:34,632 [INFO]  Epoch[3] Train-cross-entropy=3.216104
+2021-02-02 22:00:34,632 [INFO]  Epoch[3] Train-Cabin-accuracy=0.156250
+2021-02-02 22:00:34,633 [INFO]  Epoch[3] Time cost=0.334
+2021-02-02 22:00:34,704 [INFO]  Saved checkpoint to "imputer_model/model-0003.params"
+2021-02-02 22:00:34,715 [INFO]  Epoch[3] Validation-cross-entropy=3.192798
+2021-02-02 22:00:34,715 [INFO]  Epoch[3] Validation-Cabin-accuracy=0.062500
+2021-02-02 22:00:34,904 [INFO]  Epoch[4] Batch [0-5]	Speed: 512.17 samples/sec	cross-entropy=3.290063	Cabin-accuracy=0.072917
+2021-02-02 22:00:35,020 [INFO]  Epoch[4] Train-cross-entropy=3.111534
+2021-02-02 22:00:35,020 [INFO]  Epoch[4] Train-Cabin-accuracy=0.162500
+2021-02-02 22:00:35,020 [INFO]  Epoch[4] Time cost=0.304
+2021-02-02 22:00:35,085 [INFO]  Saved checkpoint to "imputer_model/model-0004.params"
+2021-02-02 22:00:35,095 [INFO]  Epoch[4] Validation-cross-entropy=3.128671
+2021-02-02 22:00:35,095 [INFO]  Epoch[4] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:35,263 [INFO]  Epoch[5] Batch [0-5]	Speed: 571.20 samples/sec	cross-entropy=3.235144	Cabin-accuracy=0.135417
+2021-02-02 22:00:35,378 [INFO]  Epoch[5] Train-cross-entropy=3.037120
+2021-02-02 22:00:35,378 [INFO]  Epoch[5] Train-Cabin-accuracy=0.218750
+2021-02-02 22:00:35,378 [INFO]  Epoch[5] Time cost=0.283
+2021-02-02 22:00:35,437 [INFO]  Saved checkpoint to "imputer_model/model-0005.params"
+2021-02-02 22:00:35,447 [INFO]  Epoch[5] Validation-cross-entropy=3.031381
+2021-02-02 22:00:35,447 [INFO]  Epoch[5] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:35,616 [INFO]  Epoch[6] Batch [0-5]	Speed: 567.39 samples/sec	cross-entropy=3.162676	Cabin-accuracy=0.156250
+2021-02-02 22:00:35,730 [INFO]  Epoch[6] Train-cross-entropy=2.964574
+2021-02-02 22:00:35,730 [INFO]  Epoch[6] Train-Cabin-accuracy=0.231250
+2021-02-02 22:00:35,730 [INFO]  Epoch[6] Time cost=0.283
+2021-02-02 22:00:35,793 [INFO]  Saved checkpoint to "imputer_model/model-0006.params"
+2021-02-02 22:00:35,803 [INFO]  Epoch[6] Validation-cross-entropy=2.926255
+2021-02-02 22:00:35,803 [INFO]  Epoch[6] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:35,985 [INFO]  Epoch[7] Batch [0-5]	Speed: 529.41 samples/sec	cross-entropy=3.087682	Cabin-accuracy=0.145833
+2021-02-02 22:00:36,106 [INFO]  Epoch[7] Train-cross-entropy=2.895311
+2021-02-02 22:00:36,106 [INFO]  Epoch[7] Train-Cabin-accuracy=0.237500
+2021-02-02 22:00:36,106 [INFO]  Epoch[7] Time cost=0.303
+2021-02-02 22:00:36,166 [INFO]  Saved checkpoint to "imputer_model/model-0007.params"
+2021-02-02 22:00:36,175 [INFO]  Epoch[7] Validation-cross-entropy=2.838504
+2021-02-02 22:00:36,175 [INFO]  Epoch[7] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:36,341 [INFO]  Epoch[8] Batch [0-5]	Speed: 576.45 samples/sec	cross-entropy=3.020972	Cabin-accuracy=0.135417
+2021-02-02 22:00:36,471 [INFO]  Epoch[8] Train-cross-entropy=2.830875
+2021-02-02 22:00:36,471 [INFO]  Epoch[8] Train-Cabin-accuracy=0.231250
+2021-02-02 22:00:36,472 [INFO]  Epoch[8] Time cost=0.296
+2021-02-02 22:00:36,537 [INFO]  Saved checkpoint to "imputer_model/model-0008.params"
+2021-02-02 22:00:36,547 [INFO]  Epoch[8] Validation-cross-entropy=2.767482
+2021-02-02 22:00:36,548 [INFO]  Epoch[8] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:36,727 [INFO]  Epoch[9] Batch [0-5]	Speed: 529.73 samples/sec	cross-entropy=2.963283	Cabin-accuracy=0.145833
+2021-02-02 22:00:36,841 [INFO]  Epoch[9] Train-cross-entropy=2.772911
+2021-02-02 22:00:36,841 [INFO]  Epoch[9] Train-Cabin-accuracy=0.243750
+2021-02-02 22:00:36,841 [INFO]  Epoch[9] Time cost=0.293
+2021-02-02 22:00:36,903 [INFO]  Saved checkpoint to "imputer_model/model-0009.params"
+2021-02-02 22:00:36,914 [INFO]  Epoch[9] Validation-cross-entropy=2.697808
+2021-02-02 22:00:36,914 [INFO]  Epoch[9] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:37,083 [INFO]  Epoch[10] Batch [0-5]	Speed: 565.35 samples/sec	cross-entropy=2.910872	Cabin-accuracy=0.145833
+2021-02-02 22:00:37,193 [INFO]  Epoch[10] Train-cross-entropy=2.720598
+2021-02-02 22:00:37,193 [INFO]  Epoch[10] Train-Cabin-accuracy=0.237500
+2021-02-02 22:00:37,193 [INFO]  Epoch[10] Time cost=0.279
+2021-02-02 22:00:37,252 [INFO]  Saved checkpoint to "imputer_model/model-0010.params"
+2021-02-02 22:00:37,261 [INFO]  Epoch[10] Validation-cross-entropy=2.625932
+2021-02-02 22:00:37,262 [INFO]  Epoch[10] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:37,424 [INFO]  Epoch[11] Batch [0-5]	Speed: 586.02 samples/sec	cross-entropy=2.861432	Cabin-accuracy=0.145833
+2021-02-02 22:00:37,533 [INFO]  Epoch[11] Train-cross-entropy=2.671913
+2021-02-02 22:00:37,533 [INFO]  Epoch[11] Train-Cabin-accuracy=0.256250
+2021-02-02 22:00:37,533 [INFO]  Epoch[11] Time cost=0.272
+2021-02-02 22:00:37,592 [INFO]  Saved checkpoint to "imputer_model/model-0011.params"
+2021-02-02 22:00:37,602 [INFO]  Epoch[11] Validation-cross-entropy=2.556306
+2021-02-02 22:00:37,603 [INFO]  Epoch[11] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:37,770 [INFO]  Epoch[12] Batch [0-5]	Speed: 567.72 samples/sec	cross-entropy=2.814792	Cabin-accuracy=0.177083
+2021-02-02 22:00:37,882 [INFO]  Epoch[12] Train-cross-entropy=2.626338
+2021-02-02 22:00:37,882 [INFO]  Epoch[12] Train-Cabin-accuracy=0.281250
+2021-02-02 22:00:37,882 [INFO]  Epoch[12] Time cost=0.280
+2021-02-02 22:00:37,944 [INFO]  Saved checkpoint to "imputer_model/model-0012.params"
+2021-02-02 22:00:37,953 [INFO]  Epoch[12] Validation-cross-entropy=2.492649
+2021-02-02 22:00:37,954 [INFO]  Epoch[12] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:38,126 [INFO]  Epoch[13] Batch [0-5]	Speed: 553.75 samples/sec	cross-entropy=2.771490	Cabin-accuracy=0.177083
+2021-02-02 22:00:38,240 [INFO]  Epoch[13] Train-cross-entropy=2.583116
+2021-02-02 22:00:38,240 [INFO]  Epoch[13] Train-Cabin-accuracy=0.287500
+2021-02-02 22:00:38,240 [INFO]  Epoch[13] Time cost=0.286
+2021-02-02 22:00:38,309 [INFO]  Saved checkpoint to "imputer_model/model-0013.params"
+2021-02-02 22:00:38,320 [INFO]  Epoch[13] Validation-cross-entropy=2.431826
+2021-02-02 22:00:38,320 [INFO]  Epoch[13] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:38,503 [INFO]  Epoch[14] Batch [0-5]	Speed: 523.01 samples/sec	cross-entropy=2.730679	Cabin-accuracy=0.177083
+2021-02-02 22:00:38,617 [INFO]  Epoch[14] Train-cross-entropy=2.542709
+2021-02-02 22:00:38,617 [INFO]  Epoch[14] Train-Cabin-accuracy=0.287500
+2021-02-02 22:00:38,617 [INFO]  Epoch[14] Time cost=0.297
+2021-02-02 22:00:38,681 [INFO]  Saved checkpoint to "imputer_model/model-0014.params"
+2021-02-02 22:00:38,691 [INFO]  Epoch[14] Validation-cross-entropy=2.375233
+2021-02-02 22:00:38,691 [INFO]  Epoch[14] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:38,862 [INFO]  Epoch[15] Batch [0-5]	Speed: 563.76 samples/sec	cross-entropy=2.691561	Cabin-accuracy=0.177083
+2021-02-02 22:00:38,984 [INFO]  Epoch[15] Train-cross-entropy=2.505225
+2021-02-02 22:00:38,984 [INFO]  Epoch[15] Train-Cabin-accuracy=0.293750
+2021-02-02 22:00:38,984 [INFO]  Epoch[15] Time cost=0.292
+2021-02-02 22:00:39,052 [INFO]  Saved checkpoint to "imputer_model/model-0015.params"
+2021-02-02 22:00:39,063 [INFO]  Epoch[15] Validation-cross-entropy=2.320517
+2021-02-02 22:00:39,063 [INFO]  Epoch[15] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:39,234 [INFO]  Epoch[16] Batch [0-5]	Speed: 560.75 samples/sec	cross-entropy=2.654623	Cabin-accuracy=0.177083
+2021-02-02 22:00:39,376 [INFO]  Epoch[16] Train-cross-entropy=2.468194
+2021-02-02 22:00:39,376 [INFO]  Epoch[16] Train-Cabin-accuracy=0.293750
+2021-02-02 22:00:39,376 [INFO]  Epoch[16] Time cost=0.312
+2021-02-02 22:00:39,442 [INFO]  Saved checkpoint to "imputer_model/model-0016.params"
+2021-02-02 22:00:39,452 [INFO]  Epoch[16] Validation-cross-entropy=2.272613
+2021-02-02 22:00:39,452 [INFO]  Epoch[16] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:39,618 [INFO]  Epoch[17] Batch [0-5]	Speed: 582.27 samples/sec	cross-entropy=2.620419	Cabin-accuracy=0.177083
+2021-02-02 22:00:39,728 [INFO]  Epoch[17] Train-cross-entropy=2.433696
+2021-02-02 22:00:39,728 [INFO]  Epoch[17] Train-Cabin-accuracy=0.293750
+2021-02-02 22:00:39,728 [INFO]  Epoch[17] Time cost=0.276
+2021-02-02 22:00:39,788 [INFO]  Saved checkpoint to "imputer_model/model-0017.params"
+2021-02-02 22:00:39,797 [INFO]  Epoch[17] Validation-cross-entropy=2.225423
+2021-02-02 22:00:39,797 [INFO]  Epoch[17] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:39,965 [INFO]  Epoch[18] Batch [0-5]	Speed: 565.57 samples/sec	cross-entropy=2.586982	Cabin-accuracy=0.177083
+2021-02-02 22:00:40,082 [INFO]  Epoch[18] Train-cross-entropy=2.401209
+2021-02-02 22:00:40,082 [INFO]  Epoch[18] Train-Cabin-accuracy=0.300000
+2021-02-02 22:00:40,082 [INFO]  Epoch[18] Time cost=0.285
+2021-02-02 22:00:40,146 [INFO]  Saved checkpoint to "imputer_model/model-0018.params"
+2021-02-02 22:00:40,156 [INFO]  Epoch[18] Validation-cross-entropy=2.177934
+2021-02-02 22:00:40,156 [INFO]  Epoch[18] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:40,319 [INFO]  Epoch[19] Batch [0-5]	Speed: 586.39 samples/sec	cross-entropy=2.554787	Cabin-accuracy=0.187500
+2021-02-02 22:00:40,438 [INFO]  Epoch[19] Train-cross-entropy=2.369753
+2021-02-02 22:00:40,439 [INFO]  Epoch[19] Train-Cabin-accuracy=0.306250
+2021-02-02 22:00:40,439 [INFO]  Epoch[19] Time cost=0.282
+2021-02-02 22:00:40,508 [INFO]  Saved checkpoint to "imputer_model/model-0019.params"
+2021-02-02 22:00:40,520 [INFO]  Epoch[19] Validation-cross-entropy=2.138769
+2021-02-02 22:00:40,520 [INFO]  Epoch[19] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:40,693 [INFO]  Epoch[20] Batch [0-5]	Speed: 559.08 samples/sec	cross-entropy=2.524767	Cabin-accuracy=0.187500
+2021-02-02 22:00:40,803 [INFO]  Epoch[20] Train-cross-entropy=2.339257
+2021-02-02 22:00:40,803 [INFO]  Epoch[20] Train-Cabin-accuracy=0.306250
+2021-02-02 22:00:40,803 [INFO]  Epoch[20] Time cost=0.283
+2021-02-02 22:00:40,862 [INFO]  Saved checkpoint to "imputer_model/model-0020.params"
+2021-02-02 22:00:40,872 [INFO]  Epoch[20] Validation-cross-entropy=2.099161
+2021-02-02 22:00:40,872 [INFO]  Epoch[20] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:41,043 [INFO]  Epoch[21] Batch [0-5]	Speed: 562.32 samples/sec	cross-entropy=2.496027	Cabin-accuracy=0.208333
+2021-02-02 22:00:41,172 [INFO]  Epoch[21] Train-cross-entropy=2.310999
+2021-02-02 22:00:41,172 [INFO]  Epoch[21] Train-Cabin-accuracy=0.318750
+2021-02-02 22:00:41,173 [INFO]  Epoch[21] Time cost=0.300
+2021-02-02 22:00:41,241 [INFO]  Saved checkpoint to "imputer_model/model-0021.params"
+2021-02-02 22:00:41,252 [INFO]  Epoch[21] Validation-cross-entropy=2.059821
+2021-02-02 22:00:41,252 [INFO]  Epoch[21] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:41,439 [INFO]  Epoch[22] Batch [0-5]	Speed: 510.95 samples/sec	cross-entropy=2.468015	Cabin-accuracy=0.218750
+2021-02-02 22:00:41,570 [INFO]  Epoch[22] Train-cross-entropy=2.283046
+2021-02-02 22:00:41,570 [INFO]  Epoch[22] Train-Cabin-accuracy=0.325000
+2021-02-02 22:00:41,570 [INFO]  Epoch[22] Time cost=0.319
+2021-02-02 22:00:41,636 [INFO]  Saved checkpoint to "imputer_model/model-0022.params"
+2021-02-02 22:00:41,646 [INFO]  Epoch[22] Validation-cross-entropy=2.023197
+2021-02-02 22:00:41,646 [INFO]  Epoch[22] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:41,811 [INFO]  Epoch[23] Batch [0-5]	Speed: 574.31 samples/sec	cross-entropy=2.441813	Cabin-accuracy=0.218750
+2021-02-02 22:00:41,959 [INFO]  Epoch[23] Train-cross-entropy=2.256652
+2021-02-02 22:00:41,959 [INFO]  Epoch[23] Train-Cabin-accuracy=0.325000
+2021-02-02 22:00:41,959 [INFO]  Epoch[23] Time cost=0.314
+2021-02-02 22:00:42,031 [INFO]  Saved checkpoint to "imputer_model/model-0023.params"
+2021-02-02 22:00:42,043 [INFO]  Epoch[23] Validation-cross-entropy=1.989621
+2021-02-02 22:00:42,043 [INFO]  Epoch[23] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:42,245 [INFO]  Epoch[24] Batch [0-5]	Speed: 467.69 samples/sec	cross-entropy=2.416254	Cabin-accuracy=0.218750
+2021-02-02 22:00:42,370 [INFO]  Epoch[24] Train-cross-entropy=2.231258
+2021-02-02 22:00:42,371 [INFO]  Epoch[24] Train-Cabin-accuracy=0.325000
+2021-02-02 22:00:42,371 [INFO]  Epoch[24] Time cost=0.328
+2021-02-02 22:00:42,438 [INFO]  Saved checkpoint to "imputer_model/model-0024.params"
+2021-02-02 22:00:42,448 [INFO]  Epoch[24] Validation-cross-entropy=1.958580
+2021-02-02 22:00:42,448 [INFO]  Epoch[24] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:42,616 [INFO]  Epoch[25] Batch [0-5]	Speed: 574.58 samples/sec	cross-entropy=2.391533	Cabin-accuracy=0.218750
+2021-02-02 22:00:42,727 [INFO]  Epoch[25] Train-cross-entropy=2.206699
+2021-02-02 22:00:42,727 [INFO]  Epoch[25] Train-Cabin-accuracy=0.325000
+2021-02-02 22:00:42,727 [INFO]  Epoch[25] Time cost=0.279
+2021-02-02 22:00:42,788 [INFO]  Saved checkpoint to "imputer_model/model-0025.params"
+2021-02-02 22:00:42,798 [INFO]  Epoch[25] Validation-cross-entropy=1.926669
+2021-02-02 22:00:42,798 [INFO]  Epoch[25] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:42,995 [INFO]  Epoch[26] Batch [0-5]	Speed: 479.44 samples/sec	cross-entropy=2.367914	Cabin-accuracy=0.218750
+2021-02-02 22:00:43,124 [INFO]  Epoch[26] Train-cross-entropy=2.183091
+2021-02-02 22:00:43,124 [INFO]  Epoch[26] Train-Cabin-accuracy=0.325000
+2021-02-02 22:00:43,124 [INFO]  Epoch[26] Time cost=0.326
+2021-02-02 22:00:43,189 [INFO]  Saved checkpoint to "imputer_model/model-0026.params"
+2021-02-02 22:00:43,199 [INFO]  Epoch[26] Validation-cross-entropy=1.897745
+2021-02-02 22:00:43,200 [INFO]  Epoch[26] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:43,368 [INFO]  Epoch[27] Batch [0-5]	Speed: 571.74 samples/sec	cross-entropy=2.345020	Cabin-accuracy=0.239583
+2021-02-02 22:00:43,481 [INFO]  Epoch[27] Train-cross-entropy=2.160893
+2021-02-02 22:00:43,481 [INFO]  Epoch[27] Train-Cabin-accuracy=0.337500
+2021-02-02 22:00:43,481 [INFO]  Epoch[27] Time cost=0.281
+2021-02-02 22:00:43,540 [INFO]  Saved checkpoint to "imputer_model/model-0027.params"
+2021-02-02 22:00:43,549 [INFO]  Epoch[27] Validation-cross-entropy=1.869707
+2021-02-02 22:00:43,549 [INFO]  Epoch[27] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:43,715 [INFO]  Epoch[28] Batch [0-5]	Speed: 576.68 samples/sec	cross-entropy=2.322802	Cabin-accuracy=0.239583
+2021-02-02 22:00:43,825 [INFO]  Epoch[28] Train-cross-entropy=2.138763
+2021-02-02 22:00:43,825 [INFO]  Epoch[28] Train-Cabin-accuracy=0.337500
+2021-02-02 22:00:43,825 [INFO]  Epoch[28] Time cost=0.276
+2021-02-02 22:00:43,885 [INFO]  Saved checkpoint to "imputer_model/model-0028.params"
+2021-02-02 22:00:43,895 [INFO]  Epoch[28] Validation-cross-entropy=1.846611
+2021-02-02 22:00:43,895 [INFO]  Epoch[28] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:44,062 [INFO]  Epoch[29] Batch [0-5]	Speed: 576.31 samples/sec	cross-entropy=2.302140	Cabin-accuracy=0.239583
+2021-02-02 22:00:44,186 [INFO]  Epoch[29] Train-cross-entropy=2.118210
+2021-02-02 22:00:44,186 [INFO]  Epoch[29] Train-Cabin-accuracy=0.337500
+2021-02-02 22:00:44,186 [INFO]  Epoch[29] Time cost=0.290
+2021-02-02 22:00:44,249 [INFO]  Saved checkpoint to "imputer_model/model-0029.params"
+2021-02-02 22:00:44,259 [INFO]  Epoch[29] Validation-cross-entropy=1.820843
+2021-02-02 22:00:44,259 [INFO]  Epoch[29] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:44,428 [INFO]  Epoch[30] Batch [0-5]	Speed: 567.98 samples/sec	cross-entropy=2.281932	Cabin-accuracy=0.239583
+2021-02-02 22:00:44,540 [INFO]  Epoch[30] Train-cross-entropy=2.098325
+2021-02-02 22:00:44,540 [INFO]  Epoch[30] Train-Cabin-accuracy=0.337500
+2021-02-02 22:00:44,540 [INFO]  Epoch[30] Time cost=0.280
+2021-02-02 22:00:44,605 [INFO]  Saved checkpoint to "imputer_model/model-0030.params"
+2021-02-02 22:00:44,614 [INFO]  Epoch[30] Validation-cross-entropy=1.794564
+2021-02-02 22:00:44,615 [INFO]  Epoch[30] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:44,794 [INFO]  Epoch[31] Batch [0-5]	Speed: 529.48 samples/sec	cross-entropy=2.262592	Cabin-accuracy=0.239583
+2021-02-02 22:00:44,924 [INFO]  Epoch[31] Train-cross-entropy=2.079190
+2021-02-02 22:00:44,925 [INFO]  Epoch[31] Train-Cabin-accuracy=0.337500
+2021-02-02 22:00:44,925 [INFO]  Epoch[31] Time cost=0.310
+2021-02-02 22:00:44,991 [INFO]  Saved checkpoint to "imputer_model/model-0031.params"
+2021-02-02 22:00:45,003 [INFO]  Epoch[31] Validation-cross-entropy=1.773663
+2021-02-02 22:00:45,004 [INFO]  Epoch[31] Validation-Cabin-accuracy=0.125000
+2021-02-02 22:00:45,201 [INFO]  Epoch[32] Batch [0-5]	Speed: 483.36 samples/sec	cross-entropy=2.243831	Cabin-accuracy=0.239583
+2021-02-02 22:00:45,328 [INFO]  Epoch[32] Train-cross-entropy=2.060699
+2021-02-02 22:00:45,328 [INFO]  Epoch[32] Train-Cabin-accuracy=0.337500
+2021-02-02 22:00:45,328 [INFO]  Epoch[32] Time cost=0.325
+2021-02-02 22:00:45,397 [INFO]  Saved checkpoint to "imputer_model/model-0032.params"
+2021-02-02 22:00:45,407 [INFO]  Epoch[32] Validation-cross-entropy=1.750398
+2021-02-02 22:00:45,407 [INFO]  Epoch[32] Validation-Cabin-accuracy=0.250000
+2021-02-02 22:00:45,575 [INFO]  Epoch[33] Batch [0-5]	Speed: 573.63 samples/sec	cross-entropy=2.225463	Cabin-accuracy=0.260417
+2021-02-02 22:00:45,698 [INFO]  Epoch[33] Train-cross-entropy=2.042982
+2021-02-02 22:00:45,698 [INFO]  Epoch[33] Train-Cabin-accuracy=0.350000
+2021-02-02 22:00:45,698 [INFO]  Epoch[33] Time cost=0.291
+2021-02-02 22:00:45,760 [INFO]  Saved checkpoint to "imputer_model/model-0033.params"
+2021-02-02 22:00:45,771 [INFO]  Epoch[33] Validation-cross-entropy=1.731039
+2021-02-02 22:00:45,771 [INFO]  Epoch[33] Validation-Cabin-accuracy=0.250000
+2021-02-02 22:00:45,944 [INFO]  Epoch[34] Batch [0-5]	Speed: 556.81 samples/sec	cross-entropy=2.207148	Cabin-accuracy=0.260417
+2021-02-02 22:00:46,062 [INFO]  Epoch[34] Train-cross-entropy=2.026424
+2021-02-02 22:00:46,062 [INFO]  Epoch[34] Train-Cabin-accuracy=0.356250
+2021-02-02 22:00:46,062 [INFO]  Epoch[34] Time cost=0.291
+2021-02-02 22:00:46,128 [INFO]  Saved checkpoint to "imputer_model/model-0034.params"
+2021-02-02 22:00:46,139 [INFO]  Epoch[34] Validation-cross-entropy=1.707888
+2021-02-02 22:00:46,139 [INFO]  Epoch[34] Validation-Cabin-accuracy=0.250000
+2021-02-02 22:00:46,306 [INFO]  Epoch[35] Batch [0-5]	Speed: 575.23 samples/sec	cross-entropy=2.190384	Cabin-accuracy=0.250000
+2021-02-02 22:00:46,420 [INFO]  Epoch[35] Train-cross-entropy=2.008641
+2021-02-02 22:00:46,420 [INFO]  Epoch[35] Train-Cabin-accuracy=0.356250
+2021-02-02 22:00:46,420 [INFO]  Epoch[35] Time cost=0.281
+2021-02-02 22:00:46,480 [INFO]  Saved checkpoint to "imputer_model/model-0035.params"
+2021-02-02 22:00:46,490 [INFO]  Epoch[35] Validation-cross-entropy=1.689836
+2021-02-02 22:00:46,490 [INFO]  Epoch[35] Validation-Cabin-accuracy=0.250000
+2021-02-02 22:00:46,654 [INFO]  Epoch[36] Batch [0-5]	Speed: 587.00 samples/sec	cross-entropy=2.174908	Cabin-accuracy=0.260417
+2021-02-02 22:00:46,765 [INFO]  Epoch[36] Train-cross-entropy=1.993719
+2021-02-02 22:00:46,765 [INFO]  Epoch[36] Train-Cabin-accuracy=0.356250
+2021-02-02 22:00:46,765 [INFO]  Epoch[36] Time cost=0.275
+2021-02-02 22:00:46,825 [INFO]  Saved checkpoint to "imputer_model/model-0036.params"
+2021-02-02 22:00:46,834 [INFO]  Epoch[36] Validation-cross-entropy=1.671696
+2021-02-02 22:00:46,834 [INFO]  Epoch[36] Validation-Cabin-accuracy=0.250000
+2021-02-02 22:00:46,997 [INFO]  Epoch[37] Batch [0-5]	Speed: 587.86 samples/sec	cross-entropy=2.158032	Cabin-accuracy=0.260417
+2021-02-02 22:00:47,113 [INFO]  Epoch[37] Train-cross-entropy=1.978234
+2021-02-02 22:00:47,113 [INFO]  Epoch[37] Train-Cabin-accuracy=0.362500
+2021-02-02 22:00:47,113 [INFO]  Epoch[37] Time cost=0.279
+2021-02-02 22:00:47,172 [INFO]  Saved checkpoint to "imputer_model/model-0037.params"
+2021-02-02 22:00:47,182 [INFO]  Epoch[37] Validation-cross-entropy=1.650888
+2021-02-02 22:00:47,182 [INFO]  Epoch[37] Validation-Cabin-accuracy=0.250000
+2021-02-02 22:00:47,344 [INFO]  Epoch[38] Batch [0-5]	Speed: 589.42 samples/sec	cross-entropy=2.142105	Cabin-accuracy=0.260417
+2021-02-02 22:00:47,454 [INFO]  Epoch[38] Train-cross-entropy=1.962645
+2021-02-02 22:00:47,455 [INFO]  Epoch[38] Train-Cabin-accuracy=0.362500
+2021-02-02 22:00:47,455 [INFO]  Epoch[38] Time cost=0.273
+2021-02-02 22:00:47,513 [INFO]  Saved checkpoint to "imputer_model/model-0038.params"
+2021-02-02 22:00:47,524 [INFO]  Epoch[38] Validation-cross-entropy=1.632994
+2021-02-02 22:00:47,524 [INFO]  Epoch[38] Validation-Cabin-accuracy=0.250000
+2021-02-02 22:00:47,687 [INFO]  Epoch[39] Batch [0-5]	Speed: 589.70 samples/sec	cross-entropy=2.126824	Cabin-accuracy=0.260417
+2021-02-02 22:00:47,795 [INFO]  Epoch[39] Train-cross-entropy=1.948341
+2021-02-02 22:00:47,795 [INFO]  Epoch[39] Train-Cabin-accuracy=0.362500
+2021-02-02 22:00:47,795 [INFO]  Epoch[39] Time cost=0.271
+2021-02-02 22:00:47,853 [INFO]  Saved checkpoint to "imputer_model/model-0039.params"
+2021-02-02 22:00:47,862 [INFO]  Epoch[39] Validation-cross-entropy=1.616400
+2021-02-02 22:00:47,863 [INFO]  Epoch[39] Validation-Cabin-accuracy=0.250000
+2021-02-02 22:00:48,026 [INFO]  Epoch[40] Batch [0-5]	Speed: 587.67 samples/sec	cross-entropy=2.111510	Cabin-accuracy=0.281250
+2021-02-02 22:00:48,138 [INFO]  Epoch[40] Train-cross-entropy=1.934133
+2021-02-02 22:00:48,138 [INFO]  Epoch[40] Train-Cabin-accuracy=0.387500
+2021-02-02 22:00:48,138 [INFO]  Epoch[40] Time cost=0.275
+2021-02-02 22:00:48,199 [INFO]  Saved checkpoint to "imputer_model/model-0040.params"
+2021-02-02 22:00:48,209 [INFO]  Epoch[40] Validation-cross-entropy=1.601737
+2021-02-02 22:00:48,209 [INFO]  Epoch[40] Validation-Cabin-accuracy=0.250000
+2021-02-02 22:00:48,386 [INFO]  Epoch[41] Batch [0-5]	Speed: 528.97 samples/sec	cross-entropy=2.096607	Cabin-accuracy=0.281250
+2021-02-02 22:00:48,506 [INFO]  Epoch[41] Train-cross-entropy=1.919860
+2021-02-02 22:00:48,507 [INFO]  Epoch[41] Train-Cabin-accuracy=0.381250
+2021-02-02 22:00:48,507 [INFO]  Epoch[41] Time cost=0.298
+2021-02-02 22:00:48,564 [INFO]  Saved checkpoint to "imputer_model/model-0041.params"
+2021-02-02 22:00:48,574 [INFO]  Epoch[41] Validation-cross-entropy=1.586490
+2021-02-02 22:00:48,574 [INFO]  Epoch[41] Validation-Cabin-accuracy=0.250000
+2021-02-02 22:00:48,744 [INFO]  Epoch[42] Batch [0-5]	Speed: 559.54 samples/sec	cross-entropy=2.082948	Cabin-accuracy=0.281250
+2021-02-02 22:00:48,896 [INFO]  Epoch[42] Train-cross-entropy=1.906637
+2021-02-02 22:00:48,896 [INFO]  Epoch[42] Train-Cabin-accuracy=0.387500
+2021-02-02 22:00:48,896 [INFO]  Epoch[42] Time cost=0.322
+2021-02-02 22:00:48,980 [INFO]  Saved checkpoint to "imputer_model/model-0042.params"
+2021-02-02 22:00:48,992 [INFO]  Epoch[42] Validation-cross-entropy=1.571795
+2021-02-02 22:00:48,992 [INFO]  Epoch[42] Validation-Cabin-accuracy=0.250000
+2021-02-02 22:00:49,171 [INFO]  Epoch[43] Batch [0-5]	Speed: 539.77 samples/sec	cross-entropy=2.069008	Cabin-accuracy=0.281250
+2021-02-02 22:00:49,281 [INFO]  Epoch[43] Train-cross-entropy=1.893671
+2021-02-02 22:00:49,281 [INFO]  Epoch[43] Train-Cabin-accuracy=0.387500
+2021-02-02 22:00:49,281 [INFO]  Epoch[43] Time cost=0.289
+2021-02-02 22:00:49,363 [INFO]  Saved checkpoint to "imputer_model/model-0043.params"
+2021-02-02 22:00:49,374 [INFO]  Epoch[43] Validation-cross-entropy=1.556504
+2021-02-02 22:00:49,374 [INFO]  Epoch[43] Validation-Cabin-accuracy=0.250000
+2021-02-02 22:00:49,552 [INFO]  Epoch[44] Batch [0-5]	Speed: 540.04 samples/sec	cross-entropy=2.055548	Cabin-accuracy=0.291667
+2021-02-02 22:00:49,663 [INFO]  Epoch[44] Train-cross-entropy=1.881096
+2021-02-02 22:00:49,663 [INFO]  Epoch[44] Train-Cabin-accuracy=0.393750
+2021-02-02 22:00:49,663 [INFO]  Epoch[44] Time cost=0.289
+2021-02-02 22:00:49,724 [INFO]  Saved checkpoint to "imputer_model/model-0044.params"
+2021-02-02 22:00:49,734 [INFO]  Epoch[44] Validation-cross-entropy=1.540505
+2021-02-02 22:00:49,734 [INFO]  Epoch[44] Validation-Cabin-accuracy=0.250000
+2021-02-02 22:00:49,899 [INFO]  Epoch[45] Batch [0-5]	Speed: 578.34 samples/sec	cross-entropy=2.042059	Cabin-accuracy=0.291667
+2021-02-02 22:00:50,033 [INFO]  Epoch[45] Train-cross-entropy=1.868893
+2021-02-02 22:00:50,033 [INFO]  Epoch[45] Train-Cabin-accuracy=0.393750
+2021-02-02 22:00:50,033 [INFO]  Epoch[45] Time cost=0.299
+2021-02-02 22:00:50,116 [INFO]  Saved checkpoint to "imputer_model/model-0045.params"
+2021-02-02 22:00:50,129 [INFO]  Epoch[45] Validation-cross-entropy=1.526705
+2021-02-02 22:00:50,129 [INFO]  Epoch[45] Validation-Cabin-accuracy=0.250000
+2021-02-02 22:00:50,389 [INFO]  Epoch[46] Batch [0-5]	Speed: 359.81 samples/sec	cross-entropy=2.030148	Cabin-accuracy=0.291667
+2021-02-02 22:00:50,552 [INFO]  Epoch[46] Train-cross-entropy=1.856605
+2021-02-02 22:00:50,552 [INFO]  Epoch[46] Train-Cabin-accuracy=0.393750
+2021-02-02 22:00:50,552 [INFO]  Epoch[46] Time cost=0.423
+2021-02-02 22:00:50,634 [INFO]  Saved checkpoint to "imputer_model/model-0046.params"
+2021-02-02 22:00:50,648 [INFO]  Epoch[46] Validation-cross-entropy=1.514890
+2021-02-02 22:00:50,648 [INFO]  Epoch[46] Validation-Cabin-accuracy=0.250000
+2021-02-02 22:00:50,851 [INFO]  Epoch[47] Batch [0-5]	Speed: 473.22 samples/sec	cross-entropy=2.017949	Cabin-accuracy=0.291667
+2021-02-02 22:00:50,966 [INFO]  Epoch[47] Train-cross-entropy=1.845481
+2021-02-02 22:00:50,966 [INFO]  Epoch[47] Train-Cabin-accuracy=0.393750
+2021-02-02 22:00:50,966 [INFO]  Epoch[47] Time cost=0.318
+2021-02-02 22:00:51,033 [INFO]  Saved checkpoint to "imputer_model/model-0047.params"
+2021-02-02 22:00:51,044 [INFO]  Epoch[47] Validation-cross-entropy=1.503797
+2021-02-02 22:00:51,045 [INFO]  Epoch[47] Validation-Cabin-accuracy=0.250000
+2021-02-02 22:00:51,249 [INFO]  Epoch[48] Batch [0-5]	Speed: 462.95 samples/sec	cross-entropy=2.005564	Cabin-accuracy=0.291667
+2021-02-02 22:00:51,399 [INFO]  Epoch[48] Train-cross-entropy=1.834411
+2021-02-02 22:00:51,399 [INFO]  Epoch[48] Train-Cabin-accuracy=0.393750
+2021-02-02 22:00:51,400 [INFO]  Epoch[48] Time cost=0.355
+2021-02-02 22:00:51,470 [INFO]  Saved checkpoint to "imputer_model/model-0048.params"
+2021-02-02 22:00:51,481 [INFO]  Epoch[48] Validation-cross-entropy=1.490134
+2021-02-02 22:00:51,481 [INFO]  Epoch[48] Validation-Cabin-accuracy=0.250000
+2021-02-02 22:00:51,678 [INFO]  Epoch[49] Batch [0-5]	Speed: 482.39 samples/sec	cross-entropy=1.993531	Cabin-accuracy=0.291667
+2021-02-02 22:00:51,796 [INFO]  Epoch[49] Train-cross-entropy=1.822713
+2021-02-02 22:00:51,797 [INFO]  Epoch[49] Train-Cabin-accuracy=0.393750
+2021-02-02 22:00:51,797 [INFO]  Epoch[49] Time cost=0.315
+2021-02-02 22:00:51,854 [INFO]  Saved checkpoint to "imputer_model/model-0049.params"
+2021-02-02 22:00:51,863 [INFO]  Epoch[49] Validation-cross-entropy=1.475628
+2021-02-02 22:00:51,864 [INFO]  Epoch[49] Validation-Cabin-accuracy=0.250000
+2021-02-02 22:00:51,864 [INFO]  
+========== done (18.78287625312805 s) fit model
